@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f2f2f2;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #ccc;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.permitido {
+  color: green;
+}
+
+.prohibido {
+  color: red;
+}
